@@ -1,0 +1,25 @@
+{
+  "name": "programacion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node indexcopy.js",
+    "aaa": "node index-2copy.js",
+    "bbb": "node index-3copy.js",
+    "ccc": "node index-4copy.js",
+    "ddd": "node index-5copy.js",
+    "eee": "node index-6copy.js",
+    "fff": "node index-7copy.js",
+    "ggg": "node index-8copy.js",
+    "hhh": "node index-9copy.js",
+    "iii": "node index-2.js",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.25.1"
+  }
+}
